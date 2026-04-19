@@ -86,8 +86,8 @@ document.addEventListener("DOMContentLoaded", () => {
     "Ej: Gerard123"
   ]);
   animarInput(".user2", [
-    "Crea un usuario",
-    "Ej: Gerard123"
+    "Ingresa tu email",
+    "example@gmail.com"
   ]);
   // Botones cambiar panel
   btnSignIn.addEventListener("click", () => {
